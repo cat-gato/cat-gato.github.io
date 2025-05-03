@@ -22,7 +22,7 @@ body {
 }
 
 header {
-	border-bottom: 3px solid #424242;
+	border-bottom: 3px solid #795c9e;
 	padding-bottom: 20px;
 }
 
@@ -34,7 +34,7 @@ section {
 }
 
 footer {
-	border-top: 3px solid #424242;
+	border-top: 3px solid #795c9e;
 	padding-top: 20px;
 }
 

@@ -1,2 +1,2 @@
-# githubprofile
-A template for a github profile site
+# cat-gato Github website
+A website hosted on Github!
